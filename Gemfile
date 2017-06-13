@@ -36,6 +36,8 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'bootstrap-sass'
 gem 'font-awesome-rails'
+gem 'annotate'
+gem 'awesome_print'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
